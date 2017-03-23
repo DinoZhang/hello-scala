@@ -13,4 +13,9 @@ myCounter.increment()
 println(myCounter.current)
 
 // 改值使用（），取值不用
+class Person{
+    var age = 0
+}
+val p = new Person()
+println(p.age)
 
